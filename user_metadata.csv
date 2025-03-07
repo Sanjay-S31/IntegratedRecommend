@@ -1,0 +1,6 @@
+user_id,age,location,purchase_history
+101,25,New York,"1,3,5"
+102,30,San Francisco,"2,4,6"
+103,28,Los Angeles,"3,7,9"
+104,35,Chicago,"1,10,12"
+105,40,Houston,"5,8,11"

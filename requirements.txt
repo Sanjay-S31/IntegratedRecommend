@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+scipy
+tensorflow
+torch
+torchvision
+torchaudio
+transformers
+nltk
+gensim
+flask
+flask-cors
+requests
+matplotlib
+seaborn

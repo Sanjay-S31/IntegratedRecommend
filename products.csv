@@ -1,0 +1,16 @@
+product_id,title,description,category,image_path,user_rating
+1,Handmade Wooden Vase,Beautifully crafted wooden vase,Home Decor,images/vase.jpg,4.5
+2,Handwoven Cotton Rug,Soft and durable cotton rug,Home Decor,images/rug.jpg,4.2
+3,Clay Tea Set,Traditional handcrafted clay tea set,Kitchen,images/tea_set.jpg,4.8
+4,Hand-painted Wall Art,Colorful hand-painted canvas,Art,images/wall_art.jpg,4.7
+5,Leather Wallet,Genuine leather minimalist wallet,Fashion,images/wallet.jpg,4.3
+6,Beaded Necklace,Handmade beaded necklace with gemstones,Jewelry,images/necklace.jpg,4.6
+7,Ceramic Dinner Plates,Set of 4 ceramic dinner plates,Kitchen,images/plates.jpg,4.4
+8,Woolen Shawl,Handwoven woolen shawl,Fashion,images/shawl.jpg,4.9
+9,Handmade Notebook,Recycled paper handmade notebook,Stationery,images/notebook.jpg,4.1
+10,Bamboo Basket,Multi-purpose bamboo basket,Home Decor,images/basket.jpg,4.3
+11,Hand-carved Wooden Box,Antique-style storage box,Home Decor,images/wood_box.jpg,4.7
+12,Terracotta Plant Pot,Decorative terracotta pot,Gardening,images/plant_pot.jpg,4.5
+13,Handcrafted Jute Bag,Environment-friendly jute bag,Fashion,images/jute_bag.jpg,4.2
+14,Silver Earrings,Handmade silver earrings,Jewelry,images/earrings.jpg,4.8
+15,Handwoven Wool Rug,Ethnic wool rug for living room,Home Decor,images/wool_rug.jpg,4.6
